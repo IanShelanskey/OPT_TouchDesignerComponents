@@ -1,0 +1,8 @@
+﻿  OPT_CHOP.cpp
+d:\opt\open_ptrack\docs\assets\touchdesigner\vs\opt_chop\opt_chop\chop_cplusplusbase.h(41): warning C4005: 'OPT_CHOP_API': macro redefinition
+  d:\opt\open_ptrack\docs\assets\touchdesigner\vs\opt_chop\opt_chop\opt_chop.h(4): note: see previous definition of 'OPT_CHOP_API'
+d:\opt\open_ptrack\docs\assets\touchdesigner\vs\opt_chop\opt_chop\opt_chop.cpp(11): warning C4005: 'OPT_CHOP_API': macro redefinition
+  d:\opt\open_ptrack\docs\assets\touchdesigner\vs\opt_chop\opt_chop\chop_cplusplusbase.h(41): note: see previous definition of 'OPT_CHOP_API'
+     Creating library D:\OPT\open_ptrack\docs\assets\TouchDesigner\vs\OPT_CHOP\Debug\OPT_CHOP.lib and object D:\OPT\open_ptrack\docs\assets\TouchDesigner\vs\OPT_CHOP\Debug\OPT_CHOP.exp
+  OPT_CHOP.vcxproj -> D:\OPT\open_ptrack\docs\assets\TouchDesigner\vs\OPT_CHOP\Debug\OPT_CHOP.dll
+  OPT_CHOP.vcxproj -> D:\OPT\open_ptrack\docs\assets\TouchDesigner\vs\OPT_CHOP\Debug\OPT_CHOP.pdb (Full PDB)

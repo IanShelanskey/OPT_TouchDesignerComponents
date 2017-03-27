@@ -1,0 +1,14 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  OPT_CHOP.cpp
+d:\opt\open_ptrack\docs\assets\touchdesigner\vs\opt_chop\opt_chop\rapidjson/document.h(1008): warning C4003: not enough actual parameters for macro 'max'
+d:\opt\open_ptrack\docs\assets\touchdesigner\vs\opt_chop\opt_chop\rapidjson/document.h(1014): warning C4003: not enough actual parameters for macro 'min'
+d:\opt\open_ptrack\docs\assets\touchdesigner\vs\opt_chop\opt_chop\rapidjson/document.h(1015): warning C4003: not enough actual parameters for macro 'max'
+d:\opt\open_ptrack\docs\assets\touchdesigner\vs\opt_chop\opt_chop\rapidjson/document.h(1032): warning C4003: not enough actual parameters for macro 'max'
+d:\opt\open_ptrack\docs\assets\touchdesigner\vs\opt_chop\opt_chop\rapidjson/document.h(1033): warning C4003: not enough actual parameters for macro 'max'
+     Creating library D:\OPT\open_ptrack\docs\assets\TouchDesigner\vs\OPT_CHOP\x64\Release\OPT_CHOP.lib and object D:\OPT\open_ptrack\docs\assets\TouchDesigner\vs\OPT_CHOP\x64\Release\OPT_CHOP.exp
+  Generating code
+  All 572 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  OPT_CHOP.vcxproj -> D:\OPT\open_ptrack\docs\assets\TouchDesigner\vs\OPT_CHOP\x64\Release\OPT_CHOP.dll
+  OPT_CHOP.vcxproj -> D:\OPT\open_ptrack\docs\assets\TouchDesigner\vs\OPT_CHOP\x64\Release\OPT_CHOP.pdb (Full PDB)
